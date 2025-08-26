@@ -56,5 +56,6 @@
 		"80": { "label": "Demo App" },
 		"30100": { "label": "ArgoCD" },
 		"30105": { "label": "Backstage" }
-	}
+	},
+    "postCreateCommand": "post-create.sh"
 }
